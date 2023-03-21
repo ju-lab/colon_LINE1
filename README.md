@@ -10,4 +10,5 @@ doi: https://doi.org/10.1101/2022.05.18.492429
 
 On this page, you'll find R scripts that can be used to generate figures presented in our paper. 
 
+## Contact information
 If you have any questions, feel free to reach out to me by email at changhnam@gmail.com
