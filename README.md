@@ -7,4 +7,4 @@ Chang Hyun Nam, Jeonghwan Youk, Jeong Yeon Kim, Joonoh Lim, Jung Woo Park, Soo A
 On this page, you'll find R scripts that can be used to generate figures presented in our paper. 
 
 ## Contact information
-If you have any questions, feel free to reach out to me by email at changhnam@gmail.com
+If you have any questions, feel free to contact me by email at changhnam@gmail.com
