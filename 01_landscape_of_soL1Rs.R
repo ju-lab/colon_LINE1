@@ -1,10 +1,3 @@
-############# Load files 
-df_st1 <- read_tsv("/home/users/changhyunnam/Projects/08_LINE1/Figures/Revision_v3/SupplementaryTable/SuppTable1_rev3.txt")
-df_st2 <- read_tsv("/home/users/changhyunnam/Projects/08_LINE1/Figures/Revision_v3/SupplementaryTable/SuppTable2_rev3.txt")
-df_st3 <- read_tsv("/home/users/changhyunnam/Projects/08_LINE1/Figures/Revision_v3/SupplementaryTable/SuppTable3_rev3.txt")
-df_st4 <- read_tsv("/home/users/changhyunnam/Projects/08_LINE1/Figures/Revision_v3/SupplementaryTable/SuppTable4_rev3.txt")
-df_st5 <- read_tsv("/home/users/changhyunnam/Projects/08_LINE1/Figures/Revision_v3/SupplementaryTable/SuppTable5_rev3.txt")
-
 ######## Fig 1a (Experiment design : drawings)
 
 ######## Fig 1b (L1 count by tissue types)
