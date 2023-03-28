@@ -7,5 +7,5 @@ This directory contains data and scripts to describe the genomic features of soL
 If you have a list of soL1Rs (or any variants) with the information of genomic coordinates, you can draw the distribution of variants across the genomic regions in 10 Mb sliding windows with 5-Mb-sized steps. You only need to prepare input bed files representing the genomic coordinates of the variants and run the command below.
 
 ```bash
-./draw_genomic_distribution ${input_bed}
+./draw_genomic_distribution_plot.sh ${input_bed}
 ```
