@@ -14,4 +14,4 @@ R 3.6+ with R packages (tidyverse, grid)
 ./draw_genomic_distribution_plot.sh ${input_bed} ${output_pdf}
 ```
 
-If you run this command with input_bed file with 3 columns for chromosome, position1, position2, the distribution of variants is saved in the file named output_pdf.
+If you run this command with input_bed file with 3 columns for chromosome, position1, and position2, the distribution of variants is saved in the file named output_pdf.
