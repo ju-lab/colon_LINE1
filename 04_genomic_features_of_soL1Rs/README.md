@@ -4,8 +4,14 @@ This directory contains data and scripts to describe the genomic features of soL
 
 ## Genomic distribution of soL1Rs
 
-If you have a list of soL1Rs (or any variants) with their genomic coordinates, you can draw the distribution ofthe  variants across the genomic regions in 10 Mb sliding windows with 5-Mb-sized steps. You only need to prepare input bed files representing the genomic coordinates of the variants and run the command below.
+If you have a list of soL1Rs (or any variants) with their genomic coordinates, you can draw the distribution ofthe  variants across the genomic regions in 10 Mb sliding windows with 5-Mb-sized steps. 
 
+### Prerequisite
+R 3.6+
+R packages (tidyverse, grid)
+
+### Command
 ```bash
 ./draw_genomic_distribution_plot.sh ${input_bed} ${output_pdf}
 ```
+
